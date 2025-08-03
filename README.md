@@ -1,5 +1,5 @@
 # Task_stepik---API
-1. Выполнить Post запрос из документации. Запомнить place_id созданной локации
+## 1. Выполнить Post запрос из документации. Запомнить place_id созданной локации
 <img width="1270" height="1307" alt="1  HTTP-200 POST" src="https://github.com/user-attachments/assets/f44b857f-6a9d-456c-9c88-d3078c6f6993" />
 2. Выполнить Get запрос, из документации, с полученным place_id и получить 200 статус-код - Позитивное тестирование
 <img width="1268" height="1308" alt="2  HTTP-200 GET" src="https://github.com/user-attachments/assets/a2e095b7-ade8-40d9-ba40-e12758751dac" />
