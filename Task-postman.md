@@ -1,5 +1,6 @@
 ## 1. Выполнить запрос https://api.chucknorris.io/jokes/categories для получения категорий шуток про Чак Норриса - Позитивное тестирование
 <img width="1273" height="1296" alt="1  Все категории" src="https://github.com/user-attachments/assets/5e0888fe-5fbc-427b-8264-b1bed0b96ce0" />
+
 ## 2. Получить шутки по 3-м разным категориям (пример запроса https://api.chucknorris.io/jokes/random?category=sport) - Позитивное тестирование
 
 <img width="1280" height="1300" alt="2  Категория animal" src="https://github.com/user-attachments/assets/a06e3541-cfb1-47eb-9626-a1fe201f79c9" />
